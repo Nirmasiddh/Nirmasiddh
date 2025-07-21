@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirma Siddh</h1>
 <h3 align="center">A web developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMPGeyfYzmhd1rnwB3Dwin0L72ZGoN4e2wfQ&s">
+<img align="right"  alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMPGeyfYzmhd1rnwB3Dwin0L72ZGoN4e2wfQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmasiddh&label=Profile%20views&color=0e75b6&style=flat" alt="nirmasiddh" /> </p>
 
